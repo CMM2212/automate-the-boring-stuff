@@ -2,7 +2,7 @@
 
 A collection of my notes and implementations from reading this book, organized by chapter. Additional project files included.
 
-![BookTitle](https://learning.oreilly.com/library/cover/9781098122584/150w/)
+![BookTitle](https://learning.oreilly.com/library/cover/9781098122584/250w/)
 
 ✏️Author: Al Sweigart
 🔗Link: [No Starch Press](https://nostarch.com/automate-boring-stuff-python-3rd-edition)
